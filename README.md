@@ -4,7 +4,7 @@
 
 ⚡ Goal: Cracking a high-impact Data Science role by 2027.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?AryanDatalytics)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AryanDatalytics)](https://git.io/streak-stats)
 
 
 ## 🔗 Connect with Me
