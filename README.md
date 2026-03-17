@@ -18,5 +18,5 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![spaCy](https://img.shields.io/badge/spaCy-%2309A3D5.svg?style=for-the-badge&logo=spaCy&logoColor=white)](https://spacy.io/)
 
-![My Aura](https://raw.githubusercontent.com/AryanDatalytics/Statify/main/aura.svg)
+![My Streak 🔥](https://raw.githubusercontent.com/AryanDatalytics/Statify/main/aura.svg)
 
