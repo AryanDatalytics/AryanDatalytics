@@ -18,6 +18,6 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![spaCy](https://img.shields.io/badge/spaCy-%2309A3D5.svg?style=for-the-badge&logo=spaCy&logoColor=white)](https://spacy.io/)
 
-![My Aura](https://github.com/AryanDatalytics/Statify/commit/e26918069f93fb4765ec3d6c8f21b96c538df3f8).
+![My Aura Status](aura.svg)
 
 
