@@ -20,4 +20,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AryanDatalytics&theme=radical)](https://git.io/streak-stats)
 
+![My Custom Streak](https://raw.githubusercontent.com/AryanDatalytics/Statify/main/aura.svg?v=6)
+
+
 
